@@ -3,7 +3,9 @@
 # Spark
 
 I decided to explore Apache Spark on a cool Track and Field dataset that I found on Kaggle.
+
 I am obsessed with Track. In fact, I used to run the 400M professionally and now I am a big fan of the sport. In addition, everyone seems to be talking about Apache Spark and it being the next big thing in data processing so I decided to give it a try and see what it has to offer.
+
 My plan is to explore as much as I can Spark's core and other cool libraries out built on top of it.
 
 The dataset used has the following variables:
