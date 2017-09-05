@@ -10,13 +10,13 @@ My plan is to explore as much as I can Spark's core and other cool libraries out
 
 The dataset used has the following variables:
 >- Gender
-- Event
-- Location
-- Year
-- Medal
-- Name
-- Country
-- Result
+>- Event
+>- Location
+>- Year
+>- Medal
+>- Name
+>- Country
+>- Result
 
 
 
