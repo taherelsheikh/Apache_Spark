@@ -9,7 +9,7 @@ I am obsessed with Track. In fact, I used to run the 400M professionally and now
 My plan is to explore as much as I can Spark's core and other cool libraries out built on top of it.
 
 The dataset used has the following variables:
-- Gender
+>- Gender
 - Event
 - Location
 - Year
